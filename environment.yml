@@ -4,5 +4,3 @@ channels:
 dependencies:
   - icu=54.1
   - r-base=3.3.2
-  - r-tidyverse
-  - r-seurat
