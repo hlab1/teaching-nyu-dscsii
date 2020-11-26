@@ -3,13 +3,14 @@ channels:
   - intel
   - conda-forge
   - bioconda
+  - BioBuilds
 dependencies:
-  - icu=56.1
   - icu=54.1
   - r-base=3.4.1
   - r-seurat=1.4.0.16
   - pango=1.40.1
   - ncurses=5.9
-  - harfbuzz=1.0.6
+  - harfbuzz=0.9.42
+  
   
   
