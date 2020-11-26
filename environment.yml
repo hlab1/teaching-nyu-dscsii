@@ -5,6 +5,7 @@ channels:
   - bioconda
   - BioBuilds
 dependencies:
+  - python=2.7.12
   - icu=54.1
   - r-base=3.4.1
   - r-seurat=1.4.0.16
