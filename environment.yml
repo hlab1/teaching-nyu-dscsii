@@ -1,6 +1,6 @@
 channels:
   - r
 dependencies:
-  - r-base=3.4.1
+  - r-base=3.6.1
   - r-tidyverse
   - r-seurat
