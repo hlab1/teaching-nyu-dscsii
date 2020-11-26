@@ -11,6 +11,6 @@ dependencies:
   - pango=1.40.1
   - ncurses=5.9
   - harfbuzz=0.9.42
-  
+  - readline=6.2
   
   
