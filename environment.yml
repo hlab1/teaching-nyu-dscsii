@@ -1,6 +1,5 @@
 channels:
   - r
-  - conda-forge
 dependencies:
   - r-base=3.3.1
   - r-tidyverse
