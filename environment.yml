@@ -5,6 +5,5 @@ channels:
   - bioconda
 dependencies:
   - icu=54.1
-  - r-base=3.3.2
+  - r-base=3.4.1
   - r-seurat=1.4.0.16
-  - pango=1.40.1
