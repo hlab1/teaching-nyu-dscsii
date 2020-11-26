@@ -2,7 +2,8 @@ channels:
   - r
   - intel
   - conda-forge
+  - bioconda
 dependencies:
   - icu=54.1
   - r-base=3.3.2
-  - r-seurat
+  - r-seurat=1.4.0.16
