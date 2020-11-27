@@ -13,6 +13,5 @@ dependencies:
   - ncurses=5.9
   - harfbuzz=0.9.42
   - readline=6.2
-  - r-irkernel=0.7.1
  
   
