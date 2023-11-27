@@ -3,6 +3,7 @@ channels:
   - r
   - bioconda
 dependencies:
+  - python=3.7
   - r-base=3.5.1
   - r-tidyverse
   - r-seurat=1.4.0.16
